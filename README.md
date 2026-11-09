@@ -35,9 +35,9 @@ This repo is a self taught first step with the help of AI tools (Claude).
 
 I read the two MHDuet papers closely and the abstracts/conclusions of related work.
 
-**Palenzuela, Liebling & Miñano (2022), arXiv:2204.02721** — *Large Eddy Simulations of Magnetized Mergers of Neutron Stars with Neutrinos*
+**Palenzuela, Liebling & Miñano (2022), arXiv:2204.02721** — *Large Eddy Simulations of Magnetized Mergers of Neutron Stars with Neutrinos*.
 
-**Palenzuela et al. (2025), arXiv:2510.13965** — *MHDuet: a high-order General Relativistic Radiation MHD code for CPU and GPU architectures*
+**Palenzuela et al. (2025), arXiv:2510.13965** — *MHDuet: a high-order General Relativistic Radiation MHD code for CPU and GPU architectures*.
 
 **Also skimmed (abstract level only):** A Simflowny-based high-performance 3D code for the generalized induction equation,
 Turbulent magnetic field amplification in binary neutron star mergers,
