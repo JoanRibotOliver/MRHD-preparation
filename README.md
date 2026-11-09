@@ -76,6 +76,7 @@ Docker images (`iac3/simflowny:app` and `:datastore`) and opened the web IDE.
 - Building OpenMPI, HDF5, Silo and SAMRAI from source was out of scope for my
   laptop and time budget, so I did **not** compile or run the generated code.
   Full-size runs would need a cluster anyway.
+- I read the MHDuet documentation and its prerequisites (MPI, HDF5/Silo, SAMRAI or AMReX, Lorene or FUKA).
 
 **What I learned**
 - The separation between *physical model*, *problem*, *numerical discretization*
